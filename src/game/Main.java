@@ -1,11 +1,3 @@
-/*
- * Evan Harrigan
- * CSA
- * CMDR Schenk
- * Master Project
- * 4/24/2020
- */
-
 package harrigan.five;
 
 import javax.swing.JFrame;
